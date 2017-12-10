@@ -1,0 +1,28 @@
+.mt-5 {
+    margin-top: 5rem;
+}
+
+.error-404 {
+    width: 100%;
+    height: 100vh;
+    float: left;
+    padding-top: 50vh;
+    margin-top: -20px;
+}
+
+.img-miniatura {
+    width: 100px;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.fundo-body {
+    background: #fffbd6;
+}
+
+.centralizar {
+	vertical-align: middle !important;
+	text-align: center !important;
+}

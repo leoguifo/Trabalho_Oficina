@@ -1,0 +1,20 @@
+{
+    "name": "lucien/app",
+    "description": "MicroFramework",
+    "authors": [
+        {
+            "name": "Lucien",
+            "email": "lucienrc@outlook.com.br"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "~6.0",
+        "pagseguro/php": "@stable"
+    },
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "framework/",
+            "App\\": "app/"
+        }
+    }
+}
